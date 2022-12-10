@@ -113,7 +113,7 @@ Open the `ContactMeSection.js` component. Implement the remaining requirements o
 
 The form contains 4 input fields: name, email address, type of enquiry and message.
 
-The whole UI of the form is defined for you. You need to implement some missing business logic.
+
 
 <img src="screenshots/image4.png" alt="drawing" width="1024"/>
 
